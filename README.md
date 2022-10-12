@@ -1,2 +1,7 @@
 # The-RTA
+Holding on to these new habits of social distancing and newfound levels of hygiene due to COVID-19 is of key importance since it could also decrease severity of any future diseases. Social distancing is the easiest and most perusable way to curb the spread of diseases. It limits the spread by observing distance between disease spreading individuals. It isn't possible to have a person to monitor conditions all day, all the time. Thus, to automate the entire process of ensuring spacing and hygiene in queues and crowds in confined public spots such as Offices, Shopping Malls, Banks, Schools, Cinema halls etc, we introduce our robot "The RTA". 
 A social distancing and indoor ambient sensing robot
+The proposed robot consists of a 4 wheel design using which the small vehicle system will be driven. It makes use of an auto-steer capability that could be used to move along queues or the room to ensure the necessary conditions. Primarily with the help of ultrasonic sensors, the robot will detect distances between people in queues and give an auditory indication in case of distances less than the threshold distance.
+![image](https://user-images.githubusercontent.com/63184884/195313290-7b6e4f34-2e15-4e15-968a-46c1463ab361.png)
+![image](https://user-images.githubusercontent.com/63184884/195313326-d093b3d7-3e4b-4e51-8c3f-d49b737ad5c9.png)
+![image](https://user-images.githubusercontent.com/63184884/195313343-4a22a410-b1c2-4e32-afa1-395fd19a0246.png)
